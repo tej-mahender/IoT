@@ -5,5 +5,5 @@
 4. copy and browse the url with https://
    
    circuit:
-   cathode --> GND, anode --> D7
+   cathode --> GND, anode --> D7  
    ![image](https://github.com/tej-mahender/IoT/assets/148678239/c9cd9c06-543d-4a5f-ad92-fd56bb0bb76c)

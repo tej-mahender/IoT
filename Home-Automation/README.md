@@ -1,5 +1,5 @@
 
-1. include 'ESP2866WiFi.h' or 'Adafruit_ESP8266.h' libraries
+1. include 'ESP2866WiFi.h' , 'ThinkSpeak.h' libraries
 2. change the board as NodeMCU
 3. create a ThingSpeak server
 4. create a layout in MIT App Inventor

@@ -1,7 +1,8 @@
 
-1. change the board as NodeMCU
-2. create a ThingSpeak server
-3. create a layout in MIT App Inventor
+1. include 'ESP2866WiFi.h' or 'Adafruit_ESP8266.h' libraries
+2. change the board as NodeMCU
+3. create a ThingSpeak server
+4. create a layout in MIT App Inventor
 
 circuit: cathode --> GND, anode --> D7  
    ![image](https://github.com/tej-mahender/IoT/assets/148678239/690a719f-471d-456f-be2f-992bc77c606e)

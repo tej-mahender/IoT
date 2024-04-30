@@ -1,8 +1,7 @@
 
-led 
-cathode --> GND(ground)  
-anode --> 13th pin  
-IR sensor 
+led  
+cathode --> GND(ground) anode --> 13th pin  
+IR sensor  
 VCC --> 5v
 GND --> GND
 OUT --> 10th pin 

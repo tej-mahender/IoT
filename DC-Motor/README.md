@@ -1,8 +1,6 @@
 
 L298N  
-enA --> 9th pin, in1 --> 6thpin, in2 --> 7thpin  
-Out1 & Out2 --> dc motor  
-VCC(12v) & GND --> battery  
+enA --> 9th pin, in1 --> 6thpin, in2 --> 7thpin,  Out1 & Out2 --> dc motor,  VCC(12v) & GND --> battery  
 Potentiometer  
 VCC --> 5v, GND --> GND, SIG --> A0  
 
